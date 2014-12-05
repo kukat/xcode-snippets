@@ -1,6 +1,7 @@
-// mantle transformer
+// mantle json transformer
 // trans
 //
+// IDECodeSnippetCompletionPrefix: trans
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 37E1FA36-99E1-4DDB-9630-CB4128A0886F
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
