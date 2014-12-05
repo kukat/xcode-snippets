@@ -8,5 +8,5 @@
 // IDECodeSnippetVersion: 0
 + (NSValueTransformer *)<#property#>JSONTransformer
 {
-    return [NSValueTransformer ];
+    return [NSValueTransformer method#>];
 }
