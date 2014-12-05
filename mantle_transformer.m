@@ -6,7 +6,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-+ (NSValueTransformer *)<properJSONTransformer
++ (NSValueTransformer *)<property#>JSONTransformer
 {
     return [NSValueTransformer ];
 }
