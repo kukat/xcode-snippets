@@ -1,5 +1,5 @@
 // mantle json transformer
-// trans
+// mjtrans
 //
 // IDECodeSnippetCompletionPrefix: trans
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
